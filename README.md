@@ -51,6 +51,10 @@ uv sync
 uv run jupyter notebook ius_2026_cogus_workshop.ipynb
 ```
 
+`uv sync` installs `zea[jax]`, which pins the [JAX](https://docs.jax.dev/) backend that the
+notebook selects through `KERAS_BACKEND`. On Linux that pulls the CUDA 12 wheels, so the same
+command gives you a working setup on both CPU and GPU machines.
+
 ## 📚 References
 
 - Ruud J. G. van Sloun. Active inference and deep generative modeling for cognitive ultrasound. *IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control*, 71(11):1478–1490, 2024. doi:[10.1109/TUFFC.2024.3466290](https://doi.org/10.1109/TUFFC.2024.3466290).
