@@ -1,0 +1,16 @@
+[project]
+name = "ius-2026-cogus-workshop"
+version = "0.1.0"
+description = "IEEE IUS 2026 Short Course: AI for Cognitive Ultrasound Imaging"
+requires-python = ">=3.10"
+dependencies = [
+    "zea>=0.1.5",
+    "tabulate",
+    "jupyter",
+]
+
+[dependency-groups]
+dev = ["ruff", "pre-commit"]
+
+[tool.ruff]
+target-version = "py310"

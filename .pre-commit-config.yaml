@@ -1,0 +1,13 @@
+repos:
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.14.4
+    hooks:
+      - id: ruff-check
+      - id: ruff-format
+  - repo: local
+    hooks:
+      - id: check-notebook-clean
+        name: check notebook ran top to bottom without errors
+        entry: python scripts/check_notebook_clean.py
+        language: system
+        files: \.ipynb$
