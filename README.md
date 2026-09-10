@@ -7,10 +7,10 @@ The AI landscape has changed fast: from computer vision and CNNs, to **deep gene
 
 We'll cover:
 
-- 🌀 **Deep generative AI** (diffusion and flow matching), from theory to implementation
-- 🤖 **Active inference and perception-action loops**, from theory to implementation
-- 🩺 **Ultrasound applications**, from cardiac image dehazing to adaptive scanning
-- ⚡ **Real-time demos** on the US4US open ultrasound platform
+- **Deep generative AI** (diffusion and flow matching), from theory to implementation
+- **Active inference and perception-action loops**, from theory to implementation
+- **Ultrasound applications**, from cardiac image dehazing to adaptive scanning
+- **Real-time demos** on the us4us open ultrasound platform
 
 ## 👩‍🏫 Organizers
 
@@ -18,7 +18,7 @@ We'll cover:
 - [Marcin Lewandowski](https://ieee-ius.org/2026/contacts/marcin-lewandowski), us4us, Ltd.
 - [Ruud van Sloun](https://ieee-ius.org/2026/contacts/ruud-van-sloun), Eindhoven University of Technology
 
-The hands-on notebook portion of this course is brought to you by [Tristan Stevens](https://github.com/tristan-deep), [Oisín Nolan](https://github.com/OisinNolan) and [Wessel van Nierop](https://github.com/wesselvannierop), maintainers of [`zea`](https://github.com/tue-bmd/zea) 🚀.
+The hands-on notebook portion of this course is brought to you by [Tristan Stevens](https://github.com/tristan-deep), [Oisín Nolan](https://github.com/OisinNolan) and [Wessel van Nierop](https://github.com/wesselvannierop), maintainers of [`zea`](https://github.com/tue-bmd/zea).
 
 ## 🚀 Get started
 
