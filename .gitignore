@@ -1,2 +1,4 @@
 .devcontainer
 .ruff_cache
+.cache/
+outputs/
