@@ -1,7 +1,7 @@
 # AI for Cognitive Ultrasound Imaging
 ### [IEEE IUS 2026 Short Course](https://ieee-ius.org/2026/short-course/ai-for-cognitive-ultrasound-imaging)
 
-**8:00 AM to 12:30 PM**
+**8:30 AM to 12:30 PM**
 
 The AI landscape has changed fast: from computer vision and CNNs, to **deep generative modeling** and **cognitive agents** (active inference and RL). This short course brings those breakthroughs straight to ultrasound, with theory *and* hands-on code.
 
