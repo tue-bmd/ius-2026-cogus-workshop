@@ -18,7 +18,7 @@ We'll cover:
 - [Marcin Lewandowski](https://ieee-ius.org/2026/contacts/marcin-lewandowski), us4us, Ltd.
 - [Ruud van Sloun](https://ieee-ius.org/2026/contacts/ruud-van-sloun), Eindhoven University of Technology
 
-The hands-on notebook portion of this course is brought to you by [Tristan Stevens](https://github.com/tristan-deep), [Oisín Nolan](https://github.com/OisinNolan) and [Wessel van Nierop](https://github.com/wesselvannierop), maintainers of [`zea`](https://github.com/tue-bmd/zea).
+The hands-on notebook portion of this course is brought to you by [Tristan Stevens](https://github.com/tristan-deep), [Oisín Nolan](https://github.com/OisinNolan), [Wessel van Nierop](https://github.com/wesselvannierop) and [Simon Penninga](https://github.com/swpenninga), maintainers of [`zea`](https://github.com/tue-bmd/zea).
 
 ## 🚀 Get started
 
