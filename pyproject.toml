@@ -6,7 +6,7 @@ requires-python = ">=3.11"
 dependencies = [
     # `zea[jax]` pulls in jax[cuda12] on Linux and plain jax elsewhere, which is the
     # backend the notebook selects via KERAS_BACKEND. Works on both CPU and GPU.
-    "zea[jax]>=0.1.5",
+    "zea[jax]>=0.1.8",
     "tabulate",
     "jupyter",
 ]
