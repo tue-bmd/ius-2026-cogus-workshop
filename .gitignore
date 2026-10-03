@@ -1,4 +1,5 @@
 .devcontainer
 .ruff_cache
 .cache/
+.env
 outputs/
