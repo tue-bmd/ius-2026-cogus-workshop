@@ -8,6 +8,7 @@ parameters:
 display: {dynamic_range: [-50.0, 0.0]}
 
 pipeline:
+  imports: [ops.py]           # custom scan-line ops, resolved next to this file
   operations:
     - {name: select_scanlines}
     - {name: cast, params: {dtype: float32}}
