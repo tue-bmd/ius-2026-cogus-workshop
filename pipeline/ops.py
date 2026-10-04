@@ -1,7 +1,7 @@
 """
 Three additional zea ops for scan-line beamforming.
 
-The beamformer in ``s5-1.yaml`` is an ordinary :class:`zea.Pipeline`::
+The beamformer in ``pipeline.yaml`` is an ordinary :class:`zea.Pipeline`::
 
     select_scanlines -> cast -> band_pass_filter -> apply_window -> demodulate
                      -> map_scanlines[ tof_correction -> delay_and_sum
